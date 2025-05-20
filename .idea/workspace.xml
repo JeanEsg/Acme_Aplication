@@ -5,9 +5,17 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="42e338d0-8ee5-46ee-a50a-99f0cbbd7446" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/Data/Data.txt" beforeDir="false" afterPath="$PROJECT_DIR$/Data/Data.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Data/metadata.json" beforeDir="false" afterPath="$PROJECT_DIR$/Data/metadata.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Service/RagService.py" beforeDir="false" afterPath="$PROJECT_DIR$/Service/RagService.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/__init__.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Model/AuditorE_Model.py" beforeDir="false" afterPath="$PROJECT_DIR$/Model/AuditorE_Model.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Model/AuditorI_Model.py" beforeDir="false" afterPath="$PROJECT_DIR$/Model/AuditorI_Model.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Model/PlanAccion_Model.py" beforeDir="false" afterPath="$PROJECT_DIR$/Model/PlanAccion_Model.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Service/AuditorE_ServiceImp.py" beforeDir="false" afterPath="$PROJECT_DIR$/Service/AuditorE_ServiceImp.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Service/AuditorIServiceImp.py" beforeDir="false" afterPath="$PROJECT_DIR$/Service/AuditorIServiceImp.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Service/Formulario_ServiceImp.py" beforeDir="false" afterPath="$PROJECT_DIR$/Service/Formulario_ServiceImp.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Service/PlanAccion_ServiceImp.py" beforeDir="false" afterPath="$PROJECT_DIR$/Service/PlanAccion_ServiceImp.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/configurations.py" beforeDir="false" afterPath="$PROJECT_DIR$/configurations.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/requirements.txt" beforeDir="false" afterPath="$PROJECT_DIR$/requirements.txt" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -30,16 +38,16 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;ASKED_MARK_IGNORED_FILES_AS_EXCLUDED&quot;: &quot;true&quot;,
-    &quot;Python.FormularioController.executor&quot;: &quot;Run&quot;,
-    &quot;Python.main.executor&quot;: &quot;Run&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;jean&quot;,
-    &quot;last_opened_file_path&quot;: &quot;C:/Users/ASUS/Desktop/Acme_Aplication&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "ASKED_MARK_IGNORED_FILES_AS_EXCLUDED": "true",
+    "Python.FormularioController.executor": "Run",
+    "Python.main.executor": "Run",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "git-widget-placeholder": "Merging jean",
+    "last_opened_file_path": "C:/Users/ASUS/Desktop/Acme_Aplication"
   }
-}</component>
+}]]></component>
   <component name="RunManager">
     <configuration name="main" type="PythonConfigurationType" factoryName="Python" nameIsGenerated="true">
       <module name="Acme_Aplication" />
