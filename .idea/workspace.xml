@@ -4,19 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="42e338d0-8ee5-46ee-a50a-99f0cbbd7446" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/__init__.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Model/AuditorE_Model.py" beforeDir="false" afterPath="$PROJECT_DIR$/Model/AuditorE_Model.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Model/AuditorI_Model.py" beforeDir="false" afterPath="$PROJECT_DIR$/Model/AuditorI_Model.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Model/PlanAccion_Model.py" beforeDir="false" afterPath="$PROJECT_DIR$/Model/PlanAccion_Model.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Service/AuditorE_ServiceImp.py" beforeDir="false" afterPath="$PROJECT_DIR$/Service/AuditorE_ServiceImp.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Service/AuditorIServiceImp.py" beforeDir="false" afterPath="$PROJECT_DIR$/Service/AuditorIServiceImp.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Service/Formulario_ServiceImp.py" beforeDir="false" afterPath="$PROJECT_DIR$/Service/Formulario_ServiceImp.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Service/PlanAccion_ServiceImp.py" beforeDir="false" afterPath="$PROJECT_DIR$/Service/PlanAccion_ServiceImp.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/configurations.py" beforeDir="false" afterPath="$PROJECT_DIR$/configurations.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/requirements.txt" beforeDir="false" afterPath="$PROJECT_DIR$/requirements.txt" afterDir="false" />
-    </list>
+    <list default="true" id="42e338d0-8ee5-46ee-a50a-99f0cbbd7446" name="Changes" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -44,7 +32,7 @@
     "Python.FormularioController.executor": "Run",
     "Python.main.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
-    "git-widget-placeholder": "Merging jean",
+    "git-widget-placeholder": "jean",
     "last_opened_file_path": "C:/Users/ASUS/Desktop/Acme_Aplication"
   }
 }]]></component>
@@ -113,5 +101,15 @@
         </entry>
       </map>
     </option>
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/Model/AuditorE_Model.py</url>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
   </component>
 </project>
